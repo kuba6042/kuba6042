@@ -104,7 +104,6 @@ IT Technician background with experience in programming, web technologies and co
 * Intel® AI Global Impact Festival 2022
 * Google — Using AI in Business Development
 * Rector's Scholarship — Vistula University
-* Scholarship of the City of Gostynin — Bike4Map Project
 
 ---
 
