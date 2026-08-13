@@ -1,149 +1,58 @@
 # Hi, I'm Kuba 👋
 
-### Business & Security Analytics | Data Analytics | Business Intelligence | AI
+### Aspiring Data Analyst | Business Intelligence | AI
 
-I'm a Business & Security Analytics student with a background in IT and a strong interest in **Data Analytics, Business Intelligence, Python, SQL and Artificial Intelligence**.
+Business & Security Analytics student with an IT background, focused on **Data Analytics, Business Intelligence and Artificial Intelligence**.
 
-I enjoy combining technology, data and business thinking to turn complex problems into practical solutions.
+I build practical projects combining **data, technology and business**.
 
-I'm currently focused on developing my skills in **Python, SQL, Power BI, data analysis and AI**, while building practical projects that demonstrate how I apply these technologies to real-world problems.
+## 🏆 Highlights
 
----
+**Intel® AI for Youth — Laureate**
+Recognized as a Laureate of Intel® AI for Youth.
 
-## 🚀 What I Work With
+**Intel® AI Global Impact Festival 2022**
+Participated in the international Intel AI initiative.
 
-**Data & Analytics**
+**Bike4Map — Intel Impact AI Global**
+Developed a cycling technology project focused on routes and cycling services.
 
-* Python
-* SQL
-* Power BI
-* Excel
-* Pandas
-* Data visualization
-* Business analysis
+## 🛠️ Tech Stack
 
-**Programming & Technology**
+**Python · SQL · Power BI · Excel · Pandas · Git**
 
-* HTML & CSS
-* Python
-* C/C++
-* Git & GitHub
-* IoT
-* APIs
+Interested in applying AI and data analysis to real business problems.
 
-**AI**
+## 📊 Projects
 
-* Artificial Intelligence
-* AI-assisted business analysis
-* Machine Learning fundamentals
-* AI applications in business
+🔹 **Power BI** — Business intelligence and data visualization projects
 
----
+🔹 **Bike4Map** — Cycling technology project developed through the Intel Impact AI initiative
 
-## 🏆 Selected Achievements
+🔹 **IoT & Programming** — Technology and programming projects
 
-### Intel® AI for Youth — Laureate
-
-Selected as a **Laureate of Intel® AI for Youth**, an international program focused on developing practical Artificial Intelligence skills and applying AI to real-world challenges.
-
-### Intel® AI Global Impact Festival 2022
-
-Participated in the **Intel® AI Global Impact Festival**, presenting and developing projects connected with Artificial Intelligence and technology.
-
-### Bike4Map — Intel Impact AI Global
-
-Developed **Bike4Map**, a technology project focused on cycling routes and services.
-
-The project was designed to help cyclists discover routes, bicycle service points and useful information related to cycling.
-
-Bike4Map was developed as part of the **Intel Impact AI Global** initiative and represents one of my most important early technology projects.
-
----
-
-## 📊 Featured Projects
-
-### 📈 Power BI — Business Intelligence
-
-Projects focused on transforming raw data into dashboards, visualizations and actionable business insights.
-
-**Technologies:** Power BI · Data Analysis · Business Intelligence
-
----
-
-### 🚴 Bike4Map
-
-A cycling-focused technology project designed to help users discover cycling routes, bicycle service points and useful information for cyclists.
-
-**Focus:** Technology · Data · AI · User Experience
-
----
-
-### 🤖 AI Projects
-
-Projects exploring practical applications of Artificial Intelligence, data analysis and automation.
-
-**Focus:** Artificial Intelligence · Python · Business Applications
-
----
+More projects are being developed with a focus on **Python, SQL and Business Intelligence**.
 
 ## 🎓 Education
 
-**Bachelor's Degree — Business & Security Analytics**
-
+**BSc — Business & Security Analytics**
 Vistula University
 
-**Technical Education — Information Technology**
+**IT Technician**
+Technical education in Information Technology
 
-IT Technician background with experience in programming, web technologies and computer systems.
-
----
-
-## 📜 Certifications & Recognition
+## 🏅 Recognition
 
 * Intel® AI for Youth — Laureate
 * Intel® AI Global Impact Festival 2022
 * Google — Using AI in Business Development
 * Rector's Scholarship — Vistula University
 
----
+## 📫 Connect
 
-## 🔭 Currently Learning
-
-I'm currently strengthening my skills in:
-
-* Python for Data Analytics
-* SQL & databases
-* Power BI & Business Intelligence
-* Statistics & data analysis
-* Artificial Intelligence
-* Machine Learning
-* Data visualization
-
-My goal is to build strong practical skills at the intersection of **technology, data and business**.
+💼 [LinkedIn](https://linkedin.com/in/jakubbrzozowskidataanalyst)
+💻 [GitHub](https://github.com/kuba6042)
 
 ---
 
-## 🎯 Career Focus
-
-I'm interested in opportunities in:
-
-* Data Analytics
-* Business Intelligence
-* Business Analytics
-* Junior Data Analyst
-* BI Analyst
-* Data-driven business roles
-* AI & technology
-
-I'm particularly interested in projects where **data and technology can be used to solve real business problems**.
-
----
-
-## 📫 Let's Connect
-
-* 💼 LinkedIn: [LinkedIn](https://.linkedin.com/in/jakubbrzozowskidataanalyst)
-* 💻 GitHub: [github.com/kuba6042](https://github.com/kuba6042)
-
----
-
-> **Data + Technology + Business = Better Decisions**
+*Data + Technology + Business*
